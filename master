@@ -1,1 +1,6 @@
 
+git init
+git remote add origin git@github.com:AnlyDcouth/amplifyapp.git
+git add .
+git commit -m “initial commit”
+git push origin master
